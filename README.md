@@ -1,6 +1,6 @@
 # NLW Heat
 
-Stage 1 - Back-end project developed throughout NLW Heat event by Rocketseat.
+Stage 1 - Node project developed throughout NLW Heat event by Rocketseat.
 
 ## Requirements
 
